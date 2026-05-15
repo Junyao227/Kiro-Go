@@ -1,0 +1,26 @@
+# Compiled binaries
+kiro-go
+kiro-go.exe
+*.exe
+
+# Runtime data (contains tokens, DO NOT commit)
+data/
+config.json
+
+# Go build artifacts
+*.test
+*.out
+vendor/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
